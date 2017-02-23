@@ -1,7 +1,7 @@
 #Adaptive truncated SVD of A for the given error tolerance. (adpRandSVD.m)  
-Syntax:
- s= adpRandSVD(A, tol)
- s= adpRandSVD(A, tol, P)
+Syntax:  
+&#8195 s= adpRandSVD(A, tol)  
+ s= adpRandSVD(A, tol, P)  
  s= adpRandSVD(A, tol, P, bsize)
  [U, S, V]= adpRandSVD(A, tol)
  [U, S, V]= adpRandSVD(A, tol, P)
